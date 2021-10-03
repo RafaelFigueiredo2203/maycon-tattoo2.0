@@ -1,0 +1,42 @@
+.Gridimages{
+
+  background-color: rgb(240, 236, 236);
+      width: 100%;
+      align-items: center;
+      justify-content: space-between;
+      text-align: center;
+      flex-direction:column;
+      display: -ms-flexbox; /* IE 10 */
+      display: flex;
+      -ms-flex-wrap: wrap; /* IE 10 */
+      flex-wrap: wrap;
+      padding: 0 4px;
+
+      
+
+      img.tatoo{
+        margin-top:60px;
+        padding: 3px;
+        border-radius: 10px;
+        object-fit: cover;
+        width: 240px;
+        height: 230px;
+
+        
+      }
+      img.tatoo:hover{
+        width: 280px ;
+        transition: 0.5s;
+      }
+      
+      @media screen and (max-width: 970px) {
+        img.tatoo{
+          
+         
+          width:180px;
+          height:170px;
+        }
+      }
+    
+      
+}
