@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/maycon-tattoo2.0/static/css/main.3f4213e3.chunk.css",
-    "main.js": "/maycon-tattoo2.0/static/js/main.7226d06a.chunk.js",
-    "main.js.map": "/maycon-tattoo2.0/static/js/main.7226d06a.chunk.js.map",
+    "main.js": "/maycon-tattoo2.0/static/js/main.01ff6a57.chunk.js",
+    "main.js.map": "/maycon-tattoo2.0/static/js/main.01ff6a57.chunk.js.map",
     "runtime-main.js": "/maycon-tattoo2.0/static/js/runtime-main.a31c3fa1.js",
     "runtime-main.js.map": "/maycon-tattoo2.0/static/js/runtime-main.a31c3fa1.js.map",
     "static/js/2.cc89e269.chunk.js": "/maycon-tattoo2.0/static/js/2.cc89e269.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.a31c3fa1.js",
     "static/js/2.cc89e269.chunk.js",
     "static/css/main.3f4213e3.chunk.css",
-    "static/js/main.7226d06a.chunk.js"
+    "static/js/main.01ff6a57.chunk.js"
   ]
 }
