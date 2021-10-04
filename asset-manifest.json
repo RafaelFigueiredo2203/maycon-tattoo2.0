@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/maycon-tattoo2.0/static/css/main.3f4213e3.chunk.css",
-    "main.js": "/maycon-tattoo2.0/static/js/main.259e1d59.chunk.js",
-    "main.js.map": "/maycon-tattoo2.0/static/js/main.259e1d59.chunk.js.map",
+    "main.js": "/maycon-tattoo2.0/static/js/main.b2f56879.chunk.js",
+    "main.js.map": "/maycon-tattoo2.0/static/js/main.b2f56879.chunk.js.map",
     "runtime-main.js": "/maycon-tattoo2.0/static/js/runtime-main.a31c3fa1.js",
     "runtime-main.js.map": "/maycon-tattoo2.0/static/js/runtime-main.a31c3fa1.js.map",
-    "static/js/2.4ea99deb.chunk.js": "/maycon-tattoo2.0/static/js/2.4ea99deb.chunk.js",
-    "static/js/2.4ea99deb.chunk.js.map": "/maycon-tattoo2.0/static/js/2.4ea99deb.chunk.js.map",
+    "static/js/2.b6450f78.chunk.js": "/maycon-tattoo2.0/static/js/2.b6450f78.chunk.js",
+    "static/js/2.b6450f78.chunk.js.map": "/maycon-tattoo2.0/static/js/2.b6450f78.chunk.js.map",
     "static/js/3.3aaf2e53.chunk.js": "/maycon-tattoo2.0/static/js/3.3aaf2e53.chunk.js",
     "static/js/3.3aaf2e53.chunk.js.map": "/maycon-tattoo2.0/static/js/3.3aaf2e53.chunk.js.map",
     "index.html": "/maycon-tattoo2.0/index.html",
     "static/css/main.3f4213e3.chunk.css.map": "/maycon-tattoo2.0/static/css/main.3f4213e3.chunk.css.map",
-    "static/js/2.4ea99deb.chunk.js.LICENSE.txt": "/maycon-tattoo2.0/static/js/2.4ea99deb.chunk.js.LICENSE.txt",
+    "static/js/2.b6450f78.chunk.js.LICENSE.txt": "/maycon-tattoo2.0/static/js/2.b6450f78.chunk.js.LICENSE.txt",
     "static/media/body.scss": "/maycon-tattoo2.0/static/media/about-us-background.5df3a789.jpg",
     "static/media/princ.scss": "/maycon-tattoo2.0/static/media/banner.d8eae97f.jpg",
     "static/media/cena.63efc99b.jpeg": "/maycon-tattoo2.0/static/media/cena.63efc99b.jpeg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a31c3fa1.js",
-    "static/js/2.4ea99deb.chunk.js",
+    "static/js/2.b6450f78.chunk.js",
     "static/css/main.3f4213e3.chunk.css",
-    "static/js/main.259e1d59.chunk.js"
+    "static/js/main.b2f56879.chunk.js"
   ]
 }
